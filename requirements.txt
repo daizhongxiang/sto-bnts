@@ -1,0 +1,10 @@
+GPy==1.10.0
+gym==0.21.0
+jax==0.2.24
+jaxlib==0.1.73
+matplotlib==3.4.3
+neural_tangents==0.3.8
+numpy==1.19.5
+scikit_learn==1.0.2
+scipy==1.7.1
+tqdm==4.62.3
